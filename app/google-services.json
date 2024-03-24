@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1066701207449",
+    "firebase_url": "https://project123-ad70d-default-rtdb.firebaseio.com",
+    "project_id": "project123-ad70d",
+    "storage_bucket": "project123-ad70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066701207449:android:8b612795cf69fa90bf8508",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5qj6uMUOZKsUdCPvu8vlkVUbaUoaZQCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
